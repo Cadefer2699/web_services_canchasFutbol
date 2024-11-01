@@ -1,0 +1,5 @@
+[
+    {"instructor_id": 1, "cantidad": 5, "precio": 3.20},
+    {"instructor_id": 3, "cantidad": 2, "precio": 5.30},
+    {"instructor_id": 4, "cantidad": 1, "precio": 13.85}
+]
